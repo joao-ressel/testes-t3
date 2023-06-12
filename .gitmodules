@@ -1,0 +1,3 @@
+[submodule "citei-backend"]
+	path = citei-backend
+	url = https://github.com/joao-ressel/citei-backend.git
