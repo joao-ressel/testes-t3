@@ -1,0 +1,41 @@
+BACK-END
+Usar node verson 20
+-> nvm use 20
+-> npm i - instalar as dependencias
+-> npm run test ou npx jest
+
+atualizar snapshot:
+npm run test jest --updateSnapshot
+
+supertests - é uma ferramenta útil para testar APIs em Node.js, permitindo que você envie solicitações HTTP e verifique as respostas de forma automatizada, para escrever casos de teste para verificar o comportamento correto da sua API em diferentes cenários. Você pode enviar solicitações GET, POST, PUT, DELETE
+
+FRONT-END
+partes testes de unidade
+//arranjo
+//ação
+//acessão
+
+ferramenta de documentação para componentes do front end - STORYBOOK
+
+teste de regressão visual - yarn test:regression
+para testar o css basicamente
+
+e2e
+cybepress - atividade para casa
+apos instalar
+npx cypress ...
+ver documentação
+
+ARQUIVOS ALTERADOS:
+FRONT-END:
+button.test.tsx
+collectionList.test.tsx
+collection.test.tsx /components e integration
+collection.ts / factory e entities
+collection.cy.ts
+
+BACK-END:
+colecaocontrollers
+colecaovalidator
+colecao fixture.ts
+ColecaoRepositoryMock
