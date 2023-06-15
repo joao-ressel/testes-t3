@@ -4,3 +4,9 @@
 [submodule "citei-frontend"]
 	path = citei-frontend
 	url = https://github.com/joao-ressel/citei-frontend.git
+[submodule "codes/students/joao-carlos/citei-frontend"]
+	path = codes/students/joao-carlos/citei-frontend
+	url = https://github.com/joao-ressel/citei-frontend.git
+[submodule "codes/students/joao-carlos/citei-backend"]
+	path = codes/students/joao-carlos/citei-backend
+	url = https://github.com/joao-ressel/citei-backend.git
